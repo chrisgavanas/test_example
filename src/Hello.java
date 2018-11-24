@@ -4,7 +4,7 @@ public class Hello {
         System.out.println("Hello world");
         System.out.println("Hello I'm Spyros :) ");
 
-        System.out.println("Hello World 2");
+        foo();
     }
 
     public static void foo() {
